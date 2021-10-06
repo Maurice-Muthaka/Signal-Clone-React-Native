@@ -29,4 +29,4 @@ run ```expo start```
 
 Happy coding.
 
-In case of any concern reach me out on mauricemuthaka@gmail.com or whatsapp +25472196429
+In case of any concern reach me out on mauricemuthaka@gmail.com or whatsapp +254721964297

@@ -1,6 +1,7 @@
 # Signal-Clone-React-Native
 
-![IMG_6687 PNG](https://user-images.githubusercontent.com/38291823/136252895-1d85b6fe-0d13-423a-9b5c-af428e705d06.PNG)
+![Frame 2](https://user-images.githubusercontent.com/38291823/136258825-bc7753c1-306b-44bd-92c7-38cbda56ece3.png)
+
 
 ## Few steps to run this project locally:
 
@@ -28,4 +29,4 @@ run ```expo start```
 
 Happy coding.
 
-In case of any concern reach me out on mauricemuthaka@gmail.com or whatsapp +254721964297
+In case of any concern reach me out on mauricemuthaka@gmail.com or whatsapp +25472196429

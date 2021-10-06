@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "signal",
+    "slug": "signal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "signal"
+}

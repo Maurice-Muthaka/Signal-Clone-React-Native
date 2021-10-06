@@ -1,6 +1,6 @@
 # Signal-Clone-React-Native
 
-![Frame 2](https://user-images.githubusercontent.com/38291823/136258825-bc7753c1-306b-44bd-92c7-38cbda56ece3.png)
+![Frame 2 (1)](https://user-images.githubusercontent.com/38291823/136259207-ff619286-7c6d-45f0-8076-8f25c018eea6.png)
 
 
 ## Few steps to run this project locally:
